@@ -404,7 +404,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlaneMarkerPrefab: {fileID: 1726153996}
-  ObjectToSpawn: {fileID: 8057650960020284334, guid: 22701106b407a1e43b9d29c39c238c39, type: 3}
+  ObjectToSpawn: {fileID: 7788255312915320140, guid: bed5392eaa35af44d8e269acee8a70e3, type: 3}
 --- !u!1 &1853079993
 GameObject:
   m_ObjectHideFlags: 0
